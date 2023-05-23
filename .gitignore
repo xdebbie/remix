@@ -1,0 +1,8 @@
+# .env file
+.env
+
+# Visual Studio Code settings
+.vscode/
+
+# Node.js dependencies
+node_modules/
